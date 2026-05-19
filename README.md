@@ -72,6 +72,12 @@ The adaptive calibration tracks the peak RPM seen during a session and uses that
 
 Open an issue on this repository or contact: ricardom_m@outlook.es
 
+## Donate
+
+If you find FRMM useful, you can support development via PayPal:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/RichardPM20)
+
 ---
 
 ## License
