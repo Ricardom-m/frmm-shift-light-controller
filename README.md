@@ -70,7 +70,7 @@ The adaptive calibration tracks the peak RPM seen during a session and uses that
 
 ## Support
 
-Open an issue on this repository or contact: parker82812@gmail.com
+Open an issue on this repository or contact: ricardom_m@outlook.es
 
 ---
 
