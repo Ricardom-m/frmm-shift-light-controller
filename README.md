@@ -68,9 +68,14 @@ The adaptive calibration tracks the peak RPM seen during a session and uses that
 
 ---
 
-## Support
+## Support & Feature Requests
 
-Open an issue on this repository or contact: ricardom_m@outlook.es
+Found a bug or have an idea for a new feature? Feel free to:
+
+- **Open an issue** on this repository — [github.com/Ricardom-m/frmm-shift-light-controller/issues](https://github.com/Ricardom-m/frmm-shift-light-controller/issues)
+- **Send an email** to: ricardom_m@outlook.es
+
+All suggestions are welcome — whether it's support for other wheels, new dashboard data, different LED patterns, or anything else.
 
 ## Donate
 
