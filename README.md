@@ -3,6 +3,9 @@
 **Real-time RPM shift light controller for the Logitech G923 racing wheel.**  
 Works with Forza Horizon 5 and Forza Horizon 6 via UDP telemetry.
 
+[![Demo on YouTube](https://img.shields.io/badge/Demo-YouTube-red.svg)](https://youtu.be/J_oqmbScInI)
+[![Microsoft Store](https://img.shields.io/badge/Download-Microsoft%20Store-blue.svg)](https://apps.microsoft.com/detail/9MTJ39ZLGMHD)
+
 ---
 
 ## Features
